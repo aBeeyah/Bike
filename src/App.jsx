@@ -11,8 +11,7 @@ import Footer from "./components/Footer";
 import ProductsPage from "./pages/ProductsPage";
 import ProductDetailsPage from "./pages/ProductDetailsPage";
 import GalleryPage from "./pages/GalleryPage";
-import ContactPage from "./pages/ContactPage";
-
+import ContactPage from "./pages/Contactpage.jsx";
 function Home() {
   return (
     <>
